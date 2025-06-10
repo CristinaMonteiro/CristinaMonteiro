@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @CristinaMonteiro 
-- 👀 I’m interested in Web Devlopment and creating 2D games
-- 🌱 I’m currently learning to survive this pandemic and also upgrading my JavaScript! 
+- 👀 I’m interested in Web Development
 - 📫 Have any advice? Feel free to reach me via e-mail: acristinatmonteiro@gmail.com
